@@ -1,0 +1,4 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit"
+"org.example.benchmark.IntegerListSum.jdkList","avgt",1,5,"0,044706","0,021038","ms/op"
+"org.example.benchmark.IntegerListSum.jdkListFlux","avgt",1,5,"0,781719","0,195720","ms/op"
+"org.example.benchmark.IntegerListSum.jdkListParallel","avgt",1,5,"0,035337","0,008893","ms/op"
